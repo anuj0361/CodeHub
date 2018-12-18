@@ -70,7 +70,7 @@ class Navbar extends Component {
               <li className="nav-item">
                 <Link className="nav-link" to="/profiles">
                   {" "}
-                  Coders
+                  Developers
                 </Link>
               </li>
             </ul>
